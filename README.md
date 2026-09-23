@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou Rikelme Zamel 👋
 
-<!--
-**rikelmezamel/rikelmezamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Em aprendizado contínuo na área de Tecnologia da Informação  
+🎯 Buscando minha primeira oportunidade ou estágio em TI
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Atualmente
+
+Estou desenvolvendo meus conhecimentos em programação, lógica de programação e desenvolvimento web por meio da faculdade e de projetos práticos.
+
+## 🚀 Objetivo
+
+Construir experiência prática na área de tecnologia, desenvolver novos projetos e evoluir profissionalmente em TI.
